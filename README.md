@@ -5,16 +5,16 @@ Este projeto foi desenvolvido durante a Imersão Front-End da Alura, onde recria
 🚀 Como rodar o projeto<br>
 Para executar o projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório
+1- Clone o repositório
 
 git clone https://github.com/JulioCesarIglesias/spotify-react <br>
 cd spotify-react
 
-2. Instale as dependências
+2- Instale as dependências
 
 npm install
 
-3. Inicie o servidor de desenvolvimento
+3- Inicie o servidor de desenvolvimento
 
 npm start
 
