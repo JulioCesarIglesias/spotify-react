@@ -1,8 +1,8 @@
-🎵 Spotify Clone - Imersão Front-End Alura
+<h2>🎵 Spotify Clone - Imersão Front-End Alura</h2>
 
-Este projeto foi desenvolvido durante a Imersão Front-End da Alura, onde recriamos a tela inicial do Spotify utilizando React. Durante a imersão, exploramos conceitos essenciais de React, estilização e componentes reutilizáveis para construir uma interface moderna e responsiva.
+Este projeto foi desenvolvido durante a Imersão Front-End da Alura, onde recriamos a tela inicial do Spotify utilizando React. Durante a imersão, exploramos conceitos essenciais de React, estilização e componentes reutilizáveis para construir uma interface moderna.
 
-🚀 Como rodar o projeto
+🚀 Como rodar o projeto<br>
 Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório
