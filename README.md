@@ -7,8 +7,8 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd nome-do-projeto
+git clone https://github.com/JulioCesarIglesias/spotify-react
+cd spotify-react
 
 2. Instale as dependências
 
